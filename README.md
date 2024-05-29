@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![JAVA badge](https://img.shields.io/badge/Java-important)
+![JAVA badge](https://img.shields.io/badge/Java-important?style=for-the-badge)
 ![Spring Boot badge](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot)
 ![Spring Batch badge](https://img.shields.io/badge/Spring%20Batch-mint?style=for-the-badge&logo=springbatch)
 ![Spring Security badge](https://img.shields.io/badge/Spring%20Security-green?style=for-the-badge&logo=springsecurity)
-![Spring Data JPA badge](https://img.shields.io/badge/Spring%20Data%20JPA-lightblueviolet?style=for-the-badge&logo=jpa)
+![Spring Data JPA badge](https://img.shields.io/badge/Spring%20Data%20JPA-lightblueviolet?style=for-the-badge&logo=jpahibernate)
 ![MariaDB badge](https://img.shields.io/badge/MariaDB-blueviolet?style=for-the-badge&logo=mariadb)
 ![JDBC templates badge](http://img.shields.io/badge/JDBC%20templates-lightblue?style=for-the-badge&logo=jdbc)
 ![DOCKER badge](https://img.shields.io/badge/Docker-9cf?style=for-the-badge&logo=docker)
