@@ -1,4 +1,4 @@
-## Hi there 👋
+## ✨ 함께 일하고 싶은 개발자, 노현아입니다!
 
 <!--
 **hyunnbunt/hyunnbunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![JAVA badge](https://img.shields.io/badge/JAVA-red)
 ![SPRINGBOOT badge](https://img.shields.io/badge/SPRINGBOOT-green)
 ![DOCKER badge](https://img.shields.io/badge/DOCKER-blue)
 
