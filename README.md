@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ![Spring Boot badge](https://img.shields.io/badge/Spring%20Boot-brightgreen)
 ![Spring Security badge](https://img.shields.io/badge/Spring%20Security-green)
 ![MariaDB badge](https://img.shields.io/badge/MariaDB-blueviolet)
-![JDBC templates badge](https://img.shields.io/badge/JDBC%20templates-informational)
+![JDBC templates badge](https://img.shields.io/badge/JDBC%20templates-9cf)
 ![DOCKER badge](https://img.shields.io/badge/Docker-blue)
 
