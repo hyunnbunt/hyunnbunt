@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![JAVA badge](https://img.shields.io/badge/Java-important)
 ![Spring Boot badge](https://img.shields.io/badge/Spring%20Boot-lightgreen)
-![Spring Batch badge](https://img.shields.io/badge/Spring%20Batch)
+![Spring Batch badge](https://img.shields.io/badge/Spring%20Batch-mint)
 ![Spring Security badge](https://img.shields.io/badge/Spring%20Security-green)
 ![MariaDB badge](https://img.shields.io/badge/MariaDB-blueviolet)
 ![DOCKER badge](https://img.shields.io/badge/Docker-9cf)
