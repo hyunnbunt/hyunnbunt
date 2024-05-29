@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![JAVA badge](https://img.shields.io/badge/Java-red)
-![Spring Boot badge](https://img.shields.io/badge/Spring%20Boot-olive)
+![JAVA badge](https://img.shields.io/badge/Java-important)
+![Spring Boot badge](https://img.shields.io/badge/Spring%20Boot-brightgreen)
 ![Spring Security badge](https://img.shields.io/badge/Spring%20Security-green)
-![MariaDB badge](https://img.shields.io/badge/MariaDB-purple)
-![JDBC templates badge](https://img.shields.io/badge/JDBC%20templates-orange)
+![MariaDB badge](https://img.shields.io/badge/MariaDB-blueviolet)
+![JDBC templates badge](https://img.shields.io/badge/JDBC%20templates-informational)
 ![DOCKER badge](https://img.shields.io/badge/Docker-blue)
 
