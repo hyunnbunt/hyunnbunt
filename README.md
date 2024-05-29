@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![iOS badge](https://img.shields.io/badge/SPRINGBOOT-green)
-
-https://img.shields.io/badge/DOCKER-blue
+![SPRINGBOOT badge](https://img.shields.io/badge/SPRINGBOOT-green)
+![DOCKER badge](https://img.shields.io/badge/DOCKER-blue)
 
