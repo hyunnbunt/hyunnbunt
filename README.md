@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![JAVA badge](https://img.shields.io/badge/Java-important?style=for-the-badge)
-![Spring Boot badge](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot)
+![Spring Boot badge](https://img.shields.io/badge/Spring%20Boot-fff5b1?style=for-the-badge&logo=springboot)
 ![Spring Batch badge](https://img.shields.io/badge/Spring%20Batch-mint?style=for-the-badge)
 ![Spring Security badge](https://img.shields.io/badge/Spring%20Security-green?style=for-the-badge&logo=springsecurity)
 ![Spring Data JPA badge](https://img.shields.io/badge/Spring%20Data%20JPA-lightblueviolet?style=for-the-badge&)
