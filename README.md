@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 ![Spring Batch badge](https://img.shields.io/badge/Spring%20Batch-mint)
 ![Spring Security badge](https://img.shields.io/badge/Spring%20Security-green)
 ![MariaDB badge](https://img.shields.io/badge/MariaDB-blueviolet)
-![JDBC templates badge](http://img.shields.io/badge/JDBC-templates-lightblue)
+![JDBC templates badge](http://img.shields.io/badge/JDBC%20templates-lightblue)
 ![DOCKER badge](https://img.shields.io/badge/Docker-9cf)
 ![Github badge](https://img.shields.io/badge/Github-black)
