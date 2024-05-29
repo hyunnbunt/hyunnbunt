@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 ![JDBC templates badge](http://img.shields.io/badge/JDBC%20templates-lightblue)
 ![DOCKER badge](https://img.shields.io/badge/Docker-9cf)
 ![Github badge](https://img.shields.io/badge/Github-lightyellow)
+![badge with logo test](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript)
