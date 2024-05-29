@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![JAVA badge](https://img.shields.io/badge/Java-orange)
 ![SPRINGBOOT badge](https://img.shields.io/badge/Spring%20Boot-green)
-![DOCKER badge](https://img.shields.io/badge/Docker-blue)
-![JDBC templates badge](https://img.shields.io/badge/JDBC%20templates-yellow)
+![JAVA badge](https://img.shields.io/badge/Java-yellow)
 ![MariaDB badge](https://img.shields.io/badge/MariaDB-purple)
+![JDBC templates badge](https://img.shields.io/badge/JDBC%20templates-yellow)
+![DOCKER badge](https://img.shields.io/badge/Docker-blue)
 
