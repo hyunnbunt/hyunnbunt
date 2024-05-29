@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ![JAVA badge](https://img.shields.io/badge/Java-important?style=for-the-badge)
 ![Spring Boot badge](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot)
-![Spring Batch badge](https://img.shields.io/badge/Spring%20Batch-mint?style=for-the-badge&logo=springbatch)
+![Spring Batch badge](https://img.shields.io/badge/Spring%20Batch-mint?style=for-the-badge)
 ![Spring Security badge](https://img.shields.io/badge/Spring%20Security-green?style=for-the-badge&logo=springsecurity)
-![Spring Data JPA badge](https://img.shields.io/badge/Spring%20Data%20JPA-lightblueviolet?style=for-the-badge&logo=jpahibernate)
+![Spring Data JPA badge](https://img.shields.io/badge/Spring%20Data%20JPA-lightblueviolet?style=for-the-badge&)
 ![MariaDB badge](https://img.shields.io/badge/MariaDB-blueviolet?style=for-the-badge&logo=mariadb)
-![JDBC templates badge](http://img.shields.io/badge/JDBC%20templates-lightblue?style=for-the-badge&logo=jdbc)
+![JDBC templates badge](http://img.shields.io/badge/JDBC%20templates-lightblue?style=for-the-badge)
 ![DOCKER badge](https://img.shields.io/badge/Docker-9cf?style=for-the-badge&logo=docker)
 ![Github badge](https://img.shields.io/badge/Github-lightyellow?style=for-the-badge&logo=github)
