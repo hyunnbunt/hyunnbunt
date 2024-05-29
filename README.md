@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![JAVA badge](https://img.shields.io/badge/Java-important?style=for-the-badge)
+![JAVA badge](https://img.shields.io/badge/Java-ffdce0?style=for-the-badge)
 ![Spring Boot badge](https://img.shields.io/badge/Spring%20Boot-fff5b1?style=for-the-badge&logo=springboot)
 ![Spring Batch badge](https://img.shields.io/badge/Spring%20Batch-f1f8ff?style=for-the-badge)
 ![Spring Security badge](https://img.shields.io/badge/Spring%20Security-green?style=for-the-badge&logo=springsecurity)
