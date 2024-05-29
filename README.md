@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![Spring Boot badge](https://img.shields.io/badge/Spring%20Boot-lightgreen)
 ![Spring Batch badge](https://img.shields.io/badge/Spring%20Batch-mint)
 ![Spring Security badge](https://img.shields.io/badge/Spring%20Security-green)
-![Spring Data JPA badge](https://img.shields.io/badge/Spring%20Data%20JPA-lightgrey)
+![Spring Data JPA badge](https://img.shields.io/badge/Spring%20Data%20JPA-lightpurple)
 ![MariaDB badge](https://img.shields.io/badge/MariaDB-blueviolet)
 ![JDBC templates badge](http://img.shields.io/badge/JDBC%20templates-lightblue)
 ![DOCKER badge](https://img.shields.io/badge/Docker-9cf)
