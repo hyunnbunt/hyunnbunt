@@ -1,4 +1,4 @@
-## ✨ 함께 일하고 싶은 개발자!
+## ✨ 함께 일하고 싶은 개발자입니다.
 
 <!--
 **hyunnbunt/hyunnbunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
