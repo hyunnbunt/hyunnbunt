@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 ![MariaDB badge](https://img.shields.io/badge/MariaDB-dcffe4?style=for-the-badge)
 ![JDBC templates badge](http://img.shields.io/badge/JDBC%20templates-lightblue?style=for-the-badge)
 ![DOCKER badge](https://img.shields.io/badge/Docker-9cf?style=for-the-badge)
-![Github badge](https://img.shields.io/badge/Github-lightyellow?style=for-the-badge)
+![Github badge](https://img.shields.io/badge/Github-f6f8fa?style=for-the-badge)
