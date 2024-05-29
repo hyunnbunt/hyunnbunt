@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ![SPRINGBOOT badge](https://img.shields.io/badge/Spring%20Boot-green)
 ![JAVA badge](https://img.shields.io/badge/Java-yellow)
 ![MariaDB badge](https://img.shields.io/badge/MariaDB-purple)
-![JDBC templates badge](https://img.shields.io/badge/JDBC%20templates-yellow)
+![JDBC templates badge](https://img.shields.io/badge/JDBC%20templates-grey)
 ![DOCKER badge](https://img.shields.io/badge/Docker-blue)
 
