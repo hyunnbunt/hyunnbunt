@@ -1,5 +1,5 @@
-## ✨ 반갑습니다! 함께 일하고 싶은 개발자 노현아입니다.
-
+### Junior developer working with React, Node.js, and TypeScript — passionate about open-source and freelance work!
+I value curiosity and a constant drive to learn and improve.✨ 
 <!--
 **hyunnbunt/hyunnbunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
