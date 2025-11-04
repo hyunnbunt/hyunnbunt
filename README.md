@@ -1,4 +1,4 @@
-### Junior developer working with React, Node.js, and TypeScript — passionate about open-source and freelance work!
+### Frontend & FullStack developer working with React, Node.js, and TypeScript — passionate about open-source and freelance work!
 I value curiosity and a constant drive to learn and improve.✨ 
 <!--
 **hyunnbunt/hyunnbunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
